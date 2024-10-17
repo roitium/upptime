@@ -9,6 +9,10 @@ sites:
     url: https://blog-build.yanyaolab.xyz
   - name: Self-hosted Bitwarden
     url: https://passwd.yanyaolab.xyz
+  - name: Self-hosted FreshRSS
+    url: https://rss.yanyaolab.xyz
+  - name: Self-hosted Memos
+    url: https://memos.yanyaolab.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
