@@ -58,19 +58,19 @@
     "url": "https://memos.yanyaolab.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/memos.yanyaolab.xyz.ico",
     "slug": "self-hosted-memos",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 233,
-    "timeDay": 267,
-    "timeWeek": 222,
+    "timeDay": 251,
+    "timeWeek": 223,
     "timeMonth": 231,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-11-28": 0
+      "2024-11-28": 11
     }
   }
 ]
