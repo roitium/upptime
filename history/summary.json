@@ -58,7 +58,7 @@
     "url": "https://memos.yanyaolab.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/memos.yanyaolab.xyz.ico",
     "slug": "self-hosted-memos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 222,
     "timeMonth": 231,
     "timeYear": 233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-28": 0
+    }
   }
 ]
