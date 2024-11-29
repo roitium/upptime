@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1244,
-    "timeDay": 1858,
-    "timeWeek": 1290,
-    "timeMonth": 1244,
-    "timeYear": 1244,
+    "time": 1261,
+    "timeDay": 1470,
+    "timeWeek": 1321,
+    "timeMonth": 1261,
+    "timeYear": 1261,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 278,
-    "timeWeek": 224,
-    "timeMonth": 217,
-    "timeYear": 230,
+    "time": 231,
+    "timeDay": 290,
+    "timeWeek": 255,
+    "timeMonth": 218,
+    "timeYear": 231,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 336,
-    "timeWeek": 318,
+    "time": 303,
+    "timeDay": 333,
+    "timeWeek": 351,
     "timeMonth": 289,
-    "timeYear": 302,
+    "timeYear": 303,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/memos.yanyaolab.xyz.ico",
     "slug": "self-hosted-memos",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 233,
-    "timeDay": 251,
-    "timeWeek": 223,
-    "timeMonth": 231,
-    "timeYear": 233,
-    "dailyMinutesDown": {
-      "2024-11-28": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 234,
+    "timeDay": 255,
+    "timeWeek": 249,
+    "timeMonth": 230,
+    "timeYear": 234,
+    "dailyMinutesDown": {}
   }
 ]
