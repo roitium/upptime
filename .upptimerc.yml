@@ -11,6 +11,10 @@ sites:
     url: https://rss.yanyaolab.xyz
   - name: Self-hosted Memos
     url: https://memos.yanyaolab.xyz
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
