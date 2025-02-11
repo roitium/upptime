@@ -4,13 +4,13 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Blog
-    url: https://yanyaolab.xyz
+    url: https://www.roitium.com
   - name: Self-hosted Bitwarden
-    url: https://passwd.yanyaolab.xyz
+    url: https://passwd.roitium.com
   - name: Self-hosted FreshRSS
-    url: https://rss.yanyaolab.xyz
+    url: https://rss.roitium.com
   - name: Self-hosted Memos
-    url: https://memos.yanyaolab.xyz
+    url: https://memos.roitium.com
     expectedStatusCodes:
       - 200
       - 201
