@@ -1,7 +1,7 @@
 url: https://rss.roitium.com
-status: up
-code: 200
-responseTime: 432
-lastUpdated: 2025-05-29T11:22:47.485Z
+status: down
+code: 403
+responseTime: 101
+lastUpdated: 2025-05-29T13:28:49.097Z
 startTime: 2024-10-17T13:16:55.491Z
 generator: Upptime <https://github.com/upptime/upptime>
