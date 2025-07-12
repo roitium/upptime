@@ -4,19 +4,19 @@
     "url": "https://www.roitium.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.roitium.com.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1089,
-    "timeDay": 1525,
-    "timeWeek": 1074,
-    "timeMonth": 1137,
+    "timeDay": 1276,
+    "timeWeek": 1069,
+    "timeMonth": 1134,
     "timeYear": 1089,
     "dailyMinutesDown": {
-      "2025-07-12": 0
+      "2025-07-12": 11
     }
   },
   {
