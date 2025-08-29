@@ -4,7 +4,7 @@
     "url": "https://www.roitium.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.roitium.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "97.19%",
     "uptimeWeek": "99.12%",
@@ -16,6 +16,7 @@
     "timeMonth": 1091,
     "timeYear": 1084,
     "dailyMinutesDown": {
+      "2025-08-29": 0,
       "2025-08-28": 40,
       "2025-08-26": 24,
       "2025-08-25": 24,
